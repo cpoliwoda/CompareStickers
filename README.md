@@ -1,6 +1,6 @@
 ## Getting Started
 
-a simple java programm for sticker exchange that reads an input fill with following structure.
+a simple java programm for sticker exchange that reads an "input.txt" file with following structure.
 1) name of person
 2) a list of numbers which represents the sticker that person have
 3) a list of numbers which represents the sticker that person needs
